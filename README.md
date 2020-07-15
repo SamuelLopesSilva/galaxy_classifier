@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SamuelLopesSilva/galaxy_classifier/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SamuelLopesSilva/galaxy_classifier/master?urlpath=%2Fvoila%2Frender%2Fgalaxys_classifier.ipynb)
 
 # Classificador de galáxias
 
